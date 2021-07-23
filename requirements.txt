@@ -1,0 +1,3 @@
+requests==2.22.0
+getpass
+pandas==1.0.1
