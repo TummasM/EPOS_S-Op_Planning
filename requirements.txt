@@ -2,4 +2,4 @@ requests==2.22.0
 getpass4==0.0.8
 pandas==1.0.1
 shareplum==0.4.1
-requests-negotiate-sspi==0.5.2
+requests-negotiate-sspi==0.5.3
